@@ -1,0 +1,21 @@
+body {
+ margin: 10px;
+ font-family: Verdana;
+ color: #1EBEA5 ;
+}
+
+#container {
+
+	background-color: #efefef;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+}
+
+.cta {
+	text-decoration: underline;
+}
+
